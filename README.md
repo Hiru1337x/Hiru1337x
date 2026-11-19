@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hiru1337x</h1>
+<h1 align="center">Hi 👋, I'm Hirushi Lanka</h1>
 <h3 align="center">🚀 Passionate developer from Sri Lanka | Building web projects & learning every day</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hiru1337x&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1337x" /> </p>
