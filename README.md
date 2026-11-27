@@ -1,19 +1,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=HIRUSHI%20LANKA&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0891B2&height=220&section=header&text=HIRUSHI%20LANKA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;I'm+Hirushi+Lanka;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Code.+Learn.+Hack.+Explore." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;I'm+Hirushi+Lanka;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Code.+Learn.+Explore.+Repeat." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hiru1337x&label=PROFILE%20VIEWS&color=00FF41&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Hiru1337x&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Developer-Full%20Stack-00FF41?style=for-the-badge&logo=code&logoColor=black"/>
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/Location-Sri%20Lanka-00FF41?style=for-the-badge&logo=googlemaps&logoColor=black"/>
+<img src="https://img.shields.io/badge/Developer-Full%20Stack-0891B2?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-0891B2?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Sri%20Lanka-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -65,7 +65,7 @@ I love building web projects, exploring technology, learning new skills, and dis
 </a>
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma"/>
@@ -79,7 +79,7 @@ I love building web projects, exploring technology, learning new skills, and dis
 
 ---
 
-## 🔐 Cybersecurity Interests
+## 🔐 Cybersecurity & Learning
 
 I'm passionate about learning cybersecurity and understanding how digital systems work and stay secure.
 
@@ -120,19 +120,19 @@ I also enjoy designing creative and modern digital experiences.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hiru1337x&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hiru1337x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=0891B2&icon_color=0891B2&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiru1337x&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiru1337x&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=0891B2&text_color=FFFFFF"/>
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Hiru1337x&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Hiru1337x&theme=tokyonight&hide_border=true&background=020617&ring=0891B2&fire=0891B2&currStreakLabel=0891B2"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Beyond coding, I love traveling, exploring beautiful places, and experiencing ne
 <div align="center">
 
 <a href="https://www.facebook.com/share/1FXcVDjTae/">
-<img src="https://img.shields.io/badge/Explore_My_Travel_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_My_Travel_Page-0891B2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
@@ -161,39 +161,45 @@ Beyond coding, I love traveling, exploring beautiful places, and experiencing ne
 <div align="center">
 
 <a href="https://github.com/Hiru1337x">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=0891B2"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hirushi-lanka-704149367/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/share/19yP7ah195/">
-<img src="https://img.shields.io/badge/Personal_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Personal_Facebook-0891B2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/share/1FXcVDjTae/">
-<img src="https://img.shields.io/badge/Travel_Page-00AA6C?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Travel_Page-0891B2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
 
-📧 **Email:** hirushilanka9@gmail.com
-
----
-
-## 💭 My Developer Quote
+<br/>
 
 <div align="center">
 
-### "The quieter you become, the more you can hear."
+📧 **Email:** hirushilanka9@gmail.com
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+
+> "The quieter you become, the more you can hear."
 
 <br/>
 
-**⚡ Code. Learn. Hack. Explore. Repeat.**
+### ⚡ Code. Learn. Explore. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0F172A,100:020617&height=130&section=footer" width="100%"/>
 
-**Thanks for visiting my profile! 💚**
+**Thanks for visiting my profile! 💙**
 
 </div>
